@@ -10,10 +10,12 @@ namespace BinarySearch
     {
         static void Main(string[] args)
         {
+            binary_search(new int[] {3,5,6,7}, 3);
         }
 
-
-
-
+        private static void binary_search(int[] list, int itemToFind)
+        {
+            
+        }
     }
 }
